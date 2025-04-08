@@ -1,10 +1,10 @@
-Вот профессиональный `README.md` для вашего погодного бота на GitHub:
+
 
 ```markdown
 # 🌦️ Telegram Weather Bot
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
-[![Telegram](https://img.shields.io/badge/Telegram-Bot_API-blue.svg)](https://core.telegram.org/bots/api)
+[![Telegram](https://telegram.org/@baere_bot)]
 [![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-API-yellow.svg)](https://openweathermap.org/api)
 
 Бот для Telegram, который предоставляет текущую погоду в любом городе мира, используя API OpenWeatherMap.
@@ -19,7 +19,7 @@
 ## ⚙️ Установка
 
 1. Клонируйте репозиторий:
-git clone https://github.com/ваш-username/telegram-weather-bot.git
+git clone https://github.com/flash1ng/telegram-weather-bot.git
 cd telegram-weather-bot
 ```
 
