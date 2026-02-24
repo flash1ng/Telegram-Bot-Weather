@@ -80,19 +80,5 @@ telegram-weather-bot/
 
 
 
-### Дополнительные рекомендации:
-
-1. Создайте файл `.env.example` с примером структуры:
-```ini
-TELEGRAM_TOKEN=your_token_here
-WEATHER_API_KEY=your_api_key_here
-```
-
-2. Файл `requirements.txt` должен содержать:
-```
-python-telegram-bot==20.3
-requests==2.31.0
-python-dotenv==1.0.0
-```
 
 3. Для лицензии создайте файл `LICENSE` (можно выбрать MIT License на GitHub при создании репозитория)
